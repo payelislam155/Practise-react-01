@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "image": "https://i.ibb.co.com/ZLnd6vj/pexels-pixabay-4158.jpg",
+        "description": "A sleek wireless mouse with ergonomic design and 2-year battery life.",
+        "price": 25.99,
+        "category": "Electronics",
+        "isFeatured": true
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Headphones",
+        "image": "https://i.ibb.co.com/GtKmb36/pexels-madebymath-90946.jpg",
+        "description": "Noise-canceling Bluetooth headphones with high sound quality.",
+        "price": 99.99,
+        "category": "Electronics",
+        "isFeatured": true
+    },
+    {
+        "id": 3,
+        "name": "Gaming Keyboard",
+        "image": "https://i.ibb.co.com/jhrRp31/pexels-sameerkalani-3802602.jpg",
+        "description": "Mechanical gaming keyboard with customizable RGB lighting.",
+        "price": 59.99,
+        "category": "Electronics",
+        "isFeatured": false
+    },
+    {
+        "id": 4,
+        "name": "Yoga Mat",
+        "image": "https://i.ibb.co.com/T85Rfjb/pexels-tirachard-kumtanom-112571-733853.jpg",
+        "description": "Non-slip yoga mat for ultimate grip and comfort during workouts.",
+        "price": 20.99,
+        "category": "Fitness",
+        "isFeatured": true
+    },
+    {
+        "id": 5,
+        "name": "Coffee Maker",
+        "image": "https://i.ibb.co.com/5vvYm15/pexels-inmortal-producciones-108299-336232.jpg",
+        "description": "Brew delicious coffee at home with this compact coffee maker.",
+        "price": 49.99,
+        "category": "Home Appliances",
+        "isFeatured": false
+    }
+]
